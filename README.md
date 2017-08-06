@@ -1,0 +1,2 @@
+# latihan
+ini project latihan
