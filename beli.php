@@ -23,7 +23,7 @@
 
 
 <br>
-<h1 align="center">DAFTAR PEMBELI</h1>
+<h1 align="center">DAFTAR PEMBELI YANG GANTENG</h1>
 <table class="w3-table w3-striped w3-border" align="center" border="1">
 	<tr>
 		<td>ID</td>
